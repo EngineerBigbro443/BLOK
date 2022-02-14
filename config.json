@@ -1,0 +1,9 @@
+{
+	"ip":"Sahabattartod.aternos.me",
+	"port": "26047",
+	"name": "afkhandle",
+	"auto-night-skip":"false",
+	"login-enabled":"false",
+	"register-cmd":"/register pass123 ",
+	"login-cmd":"/login pass123 "
+}
